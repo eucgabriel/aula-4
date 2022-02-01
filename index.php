@@ -8,14 +8,12 @@
 </head>
 <body>
     <?php
-        $idade = 3;
-        $sal = 1825.54;
+        $idade = 19;
+        $sal = 00.00;
         $nome = "Carlos Gabriel";
-        $casado = false;
-        echo $idade;
-        echo $sal;
-        echo $nome;
-        echo $casado;
+        echo $idade."<br>";
+        echo $sal."<br>";
+        echo $nome."<br>";
     ?>
 </body>
 </html>
